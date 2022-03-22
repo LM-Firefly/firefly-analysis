@@ -173,6 +173,12 @@
       "value": "無効なドメイン"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 0,
@@ -323,6 +329,12 @@
     {
       "type": 0,
       "value": "一日のみ"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -608,7 +620,7 @@
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Type "
+      "value": "確認のため、下のフォームに"
     },
     {
       "type": 1,
@@ -616,7 +628,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": "と入力してください。"
     }
   ],
   "metrics.actions": [

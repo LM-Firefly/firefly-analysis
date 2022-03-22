@@ -173,6 +173,12 @@
       "value": "Domain tidak valid"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 1,
@@ -315,6 +321,12 @@
     {
       "type": 0,
       "value": "Sehari"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -604,7 +616,7 @@
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Type "
+      "value": "Ketikkan "
     },
     {
       "type": 1,
@@ -612,7 +624,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": " pada kotak di bawah untuk konfirmasi."
     }
   ],
   "metrics.actions": [

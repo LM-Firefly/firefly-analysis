@@ -173,6 +173,12 @@
       "value": "Neveljavna domena"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 0,
@@ -323,6 +329,12 @@
     {
       "type": 0,
       "value": "En dan"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -636,7 +648,7 @@
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Type "
+      "value": "V spodnje polje vnesite "
     },
     {
       "type": 1,
@@ -644,7 +656,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": " za potrditev."
     }
   ],
   "metrics.actions": [

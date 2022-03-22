@@ -173,6 +173,12 @@
       "value": "Ugyldig domene"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 0,
@@ -323,6 +329,12 @@
     {
       "type": 0,
       "value": "Enkelt dag"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -640,7 +652,7 @@
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Type "
+      "value": "Skriv inn "
     },
     {
       "type": 1,
@@ -648,7 +660,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": " i boksen nedenfor for å bekrefte."
     }
   ],
   "metrics.actions": [

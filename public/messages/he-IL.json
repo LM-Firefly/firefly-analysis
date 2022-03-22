@@ -173,6 +173,12 @@
       "value": "דומיין לא תקין"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 1,
@@ -315,6 +321,12 @@
     {
       "type": 0,
       "value": "יום בודד"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -616,7 +628,7 @@
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Type "
+      "value": "הקלידו "
     },
     {
       "type": 1,
@@ -624,7 +636,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": " בתיבה על מנת לאשר"
     }
   ],
   "metrics.actions": [

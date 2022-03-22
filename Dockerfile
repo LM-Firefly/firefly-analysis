@@ -2,9 +2,11 @@
 FROM node:12.22-alpine AS build
 ARG BASE_PATH
 ARG DATABASE_TYPE
+
 ENV BASE_PATH=$BASE_PATH
-ENV DATABASE_URL "postgres://mekrwagpgdfsba:61cf57e88fe90eed0750a846dd39a4199587f3739ff6f179401391cc1518a85e@ec2-3-213-41-172.compute-1.amazonaws.com:5432/d9p87asdojj97t" \
-    DATABASE_TYPE=$DATABASE_TYPE
+ENV DATABASE_URL "postgresql://umami:umami@db:5432/umami"
+ENV DATABASE_TYPE=$DATABASE_TYPE
+
 WORKDIR /build
 
 RUN yarn config set --home enableTelemetry 0

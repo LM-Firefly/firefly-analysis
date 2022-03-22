@@ -173,6 +173,12 @@
       "value": "Ongeldig domein"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 0,
@@ -323,6 +329,12 @@
     {
       "type": 0,
       "value": "Enkele dag"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -644,7 +656,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": " in onderstaande veld om dit te bevestigen."
     }
   ],
   "metrics.actions": [

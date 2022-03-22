@@ -173,6 +173,12 @@
       "value": "अमान्य डोमेन"
     }
   ],
+  "label.language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
   "label.last-days": [
     {
       "type": 0,
@@ -323,6 +329,12 @@
     {
       "type": 0,
       "value": "एक दिन"
+    }
+  ],
+  "label.theme": [
+    {
+      "type": 0,
+      "value": "Theme"
     }
   ],
   "label.this-month": [
@@ -624,7 +636,7 @@
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Type "
+      "value": "ुष्टि करने के लिए नीचे दिए गए बॉक्स में "
     },
     {
       "type": 1,
@@ -632,7 +644,7 @@
     },
     {
       "type": 0,
-      "value": " in the box below to confirm."
+      "value": " टाइप करें।"
     }
   ],
   "metrics.actions": [
