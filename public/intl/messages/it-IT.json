@@ -2,187 +2,187 @@
   "label.accounts": [
     {
       "type": 0,
-      "value": "Konta"
+      "value": "Utenti"
     }
   ],
   "label.add-account": [
     {
       "type": 0,
-      "value": "Dodaj konto"
+      "value": "Aggiungi utente"
     }
   ],
   "label.add-website": [
     {
       "type": 0,
-      "value": "Dodaj witrynę"
+      "value": "Aggiungi sito"
     }
   ],
   "label.administrator": [
     {
       "type": 0,
-      "value": "Administrator"
+      "value": "Amministratore"
     }
   ],
   "label.all": [
     {
       "type": 0,
-      "value": "Wszystkie"
+      "value": "Tutto"
     }
   ],
   "label.all-events": [
     {
       "type": 0,
-      "value": "Wszystkie wydarzenia"
+      "value": "Tutti gli eventi"
     }
   ],
   "label.all-time": [
     {
       "type": 0,
-      "value": "All time"
+      "value": "Sempre"
     }
   ],
   "label.all-websites": [
     {
       "type": 0,
-      "value": "Wszystkie witryny"
+      "value": "Tutti i siti web"
     }
   ],
   "label.back": [
     {
       "type": 0,
-      "value": "Powrót"
+      "value": "Indietro"
     }
   ],
   "label.cancel": [
     {
       "type": 0,
-      "value": "Anuluj"
+      "value": "Annulla"
     }
   ],
   "label.change-password": [
     {
       "type": 0,
-      "value": "Zmień hasło"
+      "value": "Modifica password"
     }
   ],
   "label.confirm-password": [
     {
       "type": 0,
-      "value": "Potwierdź hasło"
+      "value": "Conferma password"
     }
   ],
   "label.copy-to-clipboard": [
     {
       "type": 0,
-      "value": "Skopiuj do schowka"
+      "value": "Copia"
     }
   ],
   "label.current-password": [
     {
       "type": 0,
-      "value": "Aktualne hasło"
+      "value": "Password attuale"
     }
   ],
   "label.custom-range": [
     {
       "type": 0,
-      "value": "Zakres niestandardowy"
+      "value": "Personalizzato"
     }
   ],
   "label.dashboard": [
     {
       "type": 0,
-      "value": "Dashboard"
+      "value": "Pannello di Controllo"
     }
   ],
   "label.date-range": [
     {
       "type": 0,
-      "value": "Zakres dat"
+      "value": "Periodo"
     }
   ],
   "label.default-date-range": [
     {
       "type": 0,
-      "value": "Domyślny zakres dat"
+      "value": "Periodo standard"
     }
   ],
   "label.delete": [
     {
       "type": 0,
-      "value": "Usuń"
+      "value": "Elimina"
     }
   ],
   "label.delete-account": [
     {
       "type": 0,
-      "value": "Usuń konto"
+      "value": "Elimina account"
     }
   ],
   "label.delete-website": [
     {
       "type": 0,
-      "value": "Usuń witrynę"
+      "value": "Elimina sito"
     }
   ],
   "label.dismiss": [
     {
       "type": 0,
-      "value": "Odrzuć"
+      "value": "Scarta"
     }
   ],
   "label.domain": [
     {
       "type": 0,
-      "value": "Domena"
+      "value": "Dominio"
     }
   ],
   "label.edit": [
     {
       "type": 0,
-      "value": "Edytuj"
+      "value": "Modifica"
     }
   ],
   "label.edit-account": [
     {
       "type": 0,
-      "value": "Edytuj konto"
+      "value": "Modifica account"
     }
   ],
   "label.edit-website": [
     {
       "type": 0,
-      "value": "Edytuj witrynę"
+      "value": "Modifica sito"
     }
   ],
   "label.enable-share-url": [
     {
       "type": 0,
-      "value": "Włącz udostępnianie adresu URL"
+      "value": "Abilita URL di condivisione"
     }
   ],
   "label.invalid": [
     {
       "type": 0,
-      "value": "Nieprawidłowy"
+      "value": "Non valido"
     }
   ],
   "label.invalid-domain": [
     {
       "type": 0,
-      "value": "Nieprawidłowa witryna"
+      "value": "Dominio non valido"
     }
   ],
   "label.language": [
     {
       "type": 0,
-      "value": "Language"
+      "value": "Lingua"
     }
   ],
   "label.last-days": [
     {
       "type": 0,
-      "value": "Ostatnie "
+      "value": "Ultimi "
     },
     {
       "type": 1,
@@ -190,13 +190,13 @@
     },
     {
       "type": 0,
-      "value": " dni"
+      "value": " giorni"
     }
   ],
   "label.last-hours": [
     {
       "type": 0,
-      "value": "Ostatnie "
+      "value": "Ultime "
     },
     {
       "type": 1,
@@ -204,13 +204,13 @@
     },
     {
       "type": 0,
-      "value": " godzin"
+      "value": " ore"
     }
   ],
   "label.logged-in-as": [
     {
       "type": 0,
-      "value": "Zalogowano jako "
+      "value": "Ciao "
     },
     {
       "type": 1,
@@ -220,181 +220,181 @@
   "label.login": [
     {
       "type": 0,
-      "value": "Zaloguj się"
+      "value": "Accedi"
     }
   ],
   "label.logout": [
     {
       "type": 0,
-      "value": "Wyloguj"
+      "value": "Esci"
     }
   ],
   "label.more": [
     {
       "type": 0,
-      "value": "Więcej"
+      "value": "Dettagli"
     }
   ],
   "label.name": [
     {
       "type": 0,
-      "value": "Nazwa"
+      "value": "Nome"
     }
   ],
   "label.new-password": [
     {
       "type": 0,
-      "value": "Nowe hasło"
+      "value": "Nuova password"
     }
   ],
   "label.owner": [
     {
       "type": 0,
-      "value": "Owner"
+      "value": "Proprietario"
     }
   ],
   "label.password": [
     {
       "type": 0,
-      "value": "Hasło"
+      "value": "Password"
     }
   ],
   "label.passwords-dont-match": [
     {
       "type": 0,
-      "value": "Hasła się nie zgadzają"
+      "value": "Le password non corrispondono"
     }
   ],
   "label.profile": [
     {
       "type": 0,
-      "value": "Profil"
+      "value": "Profilo"
     }
   ],
   "label.realtime": [
     {
       "type": 0,
-      "value": "Czas rzeczywisty"
+      "value": "Tempo reale"
     }
   ],
   "label.realtime-logs": [
     {
       "type": 0,
-      "value": "Logi w czasie rzeczywistym"
+      "value": "Log in tempo reale"
     }
   ],
   "label.refresh": [
     {
       "type": 0,
-      "value": "Odśwież"
+      "value": "Ricarica"
     }
   ],
   "label.required": [
     {
       "type": 0,
-      "value": "Wymagany"
+      "value": "Obbligatorio"
     }
   ],
   "label.reset": [
     {
       "type": 0,
-      "value": "Zresetuj"
+      "value": "Reset"
     }
   ],
   "label.reset-website": [
     {
       "type": 0,
-      "value": "Reset statistics"
+      "value": "Resetta le statistiche"
     }
   ],
   "label.save": [
     {
       "type": 0,
-      "value": "Zapisz"
+      "value": "Salva"
     }
   ],
   "label.settings": [
     {
       "type": 0,
-      "value": "Ustawienia"
+      "value": "Impostazioni"
     }
   ],
   "label.share-url": [
     {
       "type": 0,
-      "value": "Udostępnij adres URL"
+      "value": "Condividi link"
     }
   ],
   "label.single-day": [
     {
       "type": 0,
-      "value": "W tym dniu"
+      "value": "Singolo giorno"
     }
   ],
   "label.theme": [
     {
       "type": 0,
-      "value": "Theme"
+      "value": "Tema"
     }
   ],
   "label.this-month": [
     {
       "type": 0,
-      "value": "W tym miesiącu"
+      "value": "Questo mese"
     }
   ],
   "label.this-week": [
     {
       "type": 0,
-      "value": "W tym tygodniu"
+      "value": "Questa settimana"
     }
   ],
   "label.this-year": [
     {
       "type": 0,
-      "value": "W tym roku"
+      "value": "Quest'anno"
     }
   ],
   "label.timezone": [
     {
       "type": 0,
-      "value": "Strefa czasowa"
+      "value": "Fuso orario"
     }
   ],
   "label.today": [
     {
       "type": 0,
-      "value": "Dzisiaj"
+      "value": "Oggi"
     }
   ],
   "label.tracking-code": [
     {
       "type": 0,
-      "value": "Kod śledzenia"
+      "value": "Codice di tracking"
     }
   ],
   "label.unknown": [
     {
       "type": 0,
-      "value": "Nieznany"
+      "value": "Sconosciuto"
     }
   ],
   "label.username": [
     {
       "type": 0,
-      "value": "Nazwa użytkownika"
+      "value": "Nome utente"
     }
   ],
   "label.view-details": [
     {
       "type": 0,
-      "value": "Pokaż szczegóły"
+      "value": "Vedi dettagli"
     }
   ],
   "label.websites": [
     {
       "type": 0,
-      "value": "Witryny"
+      "value": "Siti web"
     }
   ],
   "message.active-users": [
@@ -404,7 +404,7 @@
     },
     {
       "type": 0,
-      "value": " aktualnie "
+      "value": " "
     },
     {
       "offset": 0,
@@ -413,7 +413,7 @@
           "value": [
             {
               "type": 0,
-              "value": "odwiedzający"
+              "value": "visitatore"
             }
           ]
         },
@@ -421,7 +421,7 @@
           "value": [
             {
               "type": 0,
-              "value": "odwiedzających"
+              "value": "visitatori"
             }
           ]
         }
@@ -429,12 +429,16 @@
       "pluralType": "cardinal",
       "type": 6,
       "value": "x"
+    },
+    {
+      "type": 0,
+      "value": " online"
     }
   ],
   "message.confirm-delete": [
     {
       "type": 0,
-      "value": "Czy na pewno chcesz usunąć "
+      "value": "Sei sicuro di voler eliminare "
     },
     {
       "type": 1,
@@ -448,7 +452,7 @@
   "message.confirm-reset": [
     {
       "type": 0,
-      "value": "Are your sure you want to reset "
+      "value": "Sei sicuro di voler azzerare le statistiche di "
     },
     {
       "type": 1,
@@ -456,55 +460,55 @@
     },
     {
       "type": 0,
-      "value": "'s statistics?"
+      "value": "?"
     }
   ],
   "message.copied": [
     {
       "type": 0,
-      "value": "Skopiowano!"
+      "value": "Copiato!"
     }
   ],
   "message.delete-warning": [
     {
       "type": 0,
-      "value": "Wszystkie powiązane dane również zostaną usunięte."
+      "value": "Saranno eliminati anche tutti i dati associati."
     }
   ],
   "message.failure": [
     {
       "type": 0,
-      "value": "Coś poszło nie tak."
+      "value": "Si è verificato un errore."
     }
   ],
   "message.get-share-url": [
     {
       "type": 0,
-      "value": "Uzyskaj adres URL udostępniania"
+      "value": "Ottieni l'URL di condivisione"
     }
   ],
   "message.get-tracking-code": [
     {
       "type": 0,
-      "value": "Pobierz kod śledzenia"
+      "value": "Ottieni il codice di tracking"
     }
   ],
   "message.go-to-settings": [
     {
       "type": 0,
-      "value": "Przejdź do ustawień"
+      "value": "Vai alle impostazioni"
     }
   ],
   "message.incorrect-username-password": [
     {
       "type": 0,
-      "value": "Nieprawidłowa nazwa użytkownika/hasło."
+      "value": "Username o password non corretti."
     }
   ],
   "message.log.visitor": [
     {
       "type": 0,
-      "value": "Odwiedzający z "
+      "value": "Utenti da "
     },
     {
       "type": 1,
@@ -512,7 +516,7 @@
     },
     {
       "type": 0,
-      "value": " używa "
+      "value": " tramite "
     },
     {
       "type": 1,
@@ -520,7 +524,7 @@
     },
     {
       "type": 0,
-      "value": " na "
+      "value": " su "
     },
     {
       "type": 1,
@@ -538,7 +542,7 @@
   "message.new-version-available": [
     {
       "type": 0,
-      "value": "Nowa wersja umami "
+      "value": "Una nuova versione "
     },
     {
       "type": 1,
@@ -546,31 +550,31 @@
     },
     {
       "type": 0,
-      "value": " jest dostępna!"
+      "value": " di umami è disponibile!"
     }
   ],
   "message.no-data-available": [
     {
       "type": 0,
-      "value": "Brak dostępnych danych."
+      "value": "Nessun dato disponibile."
     }
   ],
   "message.no-websites-configured": [
     {
       "type": 0,
-      "value": "Nie masz skonfigurowanych żadnych witryn internetowych."
+      "value": "Non hai ancora configurato alcun sito."
     }
   ],
   "message.page-not-found": [
     {
       "type": 0,
-      "value": "Strona nie znaleziona."
+      "value": "Pagina non trovata"
     }
   ],
   "message.powered-by": [
     {
       "type": 0,
-      "value": "Obsługiwane przez "
+      "value": "Powered by "
     },
     {
       "type": 1,
@@ -580,19 +584,19 @@
   "message.reset-warning": [
     {
       "type": 0,
-      "value": "All statistics for this website will be deleted, but your tracking code will remain intact."
+      "value": "Tutte le statistiche verranno cancellate per questo sito, ma il tuo codice di tracciamento rimarrà invariato."
     }
   ],
   "message.save-success": [
     {
       "type": 0,
-      "value": "Zapisano pomyślnie."
+      "value": "Salvato!"
     }
   ],
   "message.share-url": [
     {
       "type": 0,
-      "value": "To jest publicznie udostępniany adres URL dla "
+      "value": "Questo è l'URL di condivisione per "
     },
     {
       "type": 1,
@@ -606,13 +610,13 @@
   "message.toggle-charts": [
     {
       "type": 0,
-      "value": "Toggle charts"
+      "value": "Apri/Chiudi i grafici"
     }
   ],
   "message.track-stats": [
     {
       "type": 0,
-      "value": "Aby śledzić statystyki dla "
+      "value": "Per tracciare le statistiche di "
     },
     {
       "type": 1,
@@ -620,7 +624,7 @@
     },
     {
       "type": 0,
-      "value": ", umieść poniższy kod w sekcji "
+      "value": ", inserisci questo codice nella sezione "
     },
     {
       "type": 1,
@@ -628,13 +632,13 @@
     },
     {
       "type": 0,
-      "value": " swojej witryny."
+      "value": " del tuo sito web."
     }
   ],
   "message.type-delete": [
     {
       "type": 0,
-      "value": "Wpisz "
+      "value": "Digita "
     },
     {
       "type": 1,
@@ -642,13 +646,13 @@
     },
     {
       "type": 0,
-      "value": " w polu poniżej, aby potwierdzić."
+      "value": " nel box qui sotto per confermare."
     }
   ],
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Wpisz "
+      "value": "Digita "
     },
     {
       "type": 1,
@@ -656,55 +660,55 @@
     },
     {
       "type": 0,
-      "value": " w polu poniżej, aby potwierdzić."
+      "value": " nel box qui sotto per confermare."
     }
   ],
   "metrics.actions": [
     {
       "type": 0,
-      "value": "Działania"
+      "value": "Azioni"
     }
   ],
   "metrics.average-visit-time": [
     {
       "type": 0,
-      "value": "Średni czas wizyty"
+      "value": "Tempo medio di visita"
     }
   ],
   "metrics.bounce-rate": [
     {
       "type": 0,
-      "value": "Współczynnik odrzuceń"
+      "value": "Frequenza di rimbalzo"
     }
   ],
   "metrics.browsers": [
     {
       "type": 0,
-      "value": "Przeglądarki"
+      "value": "Browser"
     }
   ],
   "metrics.countries": [
     {
       "type": 0,
-      "value": "Kraje"
+      "value": "Nazioni"
     }
   ],
   "metrics.device.desktop": [
     {
       "type": 0,
-      "value": "Komputer"
+      "value": "Desktop"
     }
   ],
   "metrics.device.laptop": [
     {
       "type": 0,
-      "value": "Laptop"
+      "value": "Portatile"
     }
   ],
   "metrics.device.mobile": [
     {
       "type": 0,
-      "value": "Smartfon"
+      "value": "Cellulare"
     }
   ],
   "metrics.device.tablet": [
@@ -716,79 +720,79 @@
   "metrics.devices": [
     {
       "type": 0,
-      "value": "Urządzenia"
+      "value": "Dispositivi"
     }
   ],
   "metrics.events": [
     {
       "type": 0,
-      "value": "Zdarzenia"
+      "value": "Eventi"
     }
   ],
   "metrics.filter.combined": [
     {
       "type": 0,
-      "value": "Połączone"
+      "value": "Aggregati"
     }
   ],
   "metrics.filter.domain-only": [
     {
       "type": 0,
-      "value": "Tylko domena"
+      "value": "Solo dominio"
     }
   ],
   "metrics.filter.raw": [
     {
       "type": 0,
-      "value": "Surowe dane"
+      "value": "Raw"
     }
   ],
   "metrics.languages": [
     {
       "type": 0,
-      "value": "Languages"
+      "value": "Lingue"
     }
   ],
   "metrics.operating-systems": [
     {
       "type": 0,
-      "value": "System operacyjny"
+      "value": "Sistemi operativi"
     }
   ],
   "metrics.page-views": [
     {
       "type": 0,
-      "value": "Wyświetlenia strony"
+      "value": "Visualizzazioni di pagina"
     }
   ],
   "metrics.pages": [
     {
       "type": 0,
-      "value": "Strony"
+      "value": "Pagine"
     }
   ],
   "metrics.referrers": [
     {
       "type": 0,
-      "value": "Źródła odsyłające"
+      "value": "Referrers"
     }
   ],
   "metrics.unique-visitors": [
     {
       "type": 0,
-      "value": "Unikalni odwiedzający"
+      "value": "Visitatori unici"
     }
   ],
   "metrics.views": [
     {
       "type": 0,
-      "value": "Wyświetlenia"
+      "value": "Visualizzazioni"
     }
   ],
   "metrics.visitors": [
     {
       "type": 0,
-      "value": "Odwiedzający"
+      "value": "Visitatori"
     }
   ]
 }

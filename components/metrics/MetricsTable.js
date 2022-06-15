@@ -9,10 +9,9 @@ import Arrow from 'assets/arrow-right.svg';
 import { percentFilter } from 'lib/filters';
 import useDateRange from 'hooks/useDateRange';
 import usePageQuery from 'hooks/usePageQuery';
-import useShareToken from 'hooks/useShareToken';
 import ErrorMessage from 'components/common/ErrorMessage';
 import DataTable from './DataTable';
-import { DEFAULT_ANIMATION_DURATION, TOKEN_HEADER } from 'lib/constants';
+import { DEFAULT_ANIMATION_DURATION } from 'lib/constants';
 import styles from './MetricsTable.module.css';
 
 export default function MetricsTable({
@@ -25,12 +24,11 @@ export default function MetricsTable({
   onDataLoad,
   ...props
 }) {
-  const shareToken = useShareToken();
   const [{ startDate, endDate, modified }] = useDateRange(websiteId);
   const {
     resolve,
     router,
-    query: { url },
+    query: { url, referrer, os, browser, device, country },
   } = usePageQuery();
 
   const { data, loading, error } = useFetch(
@@ -41,12 +39,16 @@ export default function MetricsTable({
         start_at: +startDate,
         end_at: +endDate,
         url,
+        referrer,
+        os,
+        browser,
+        device,
+        country,
       },
       onDataLoad,
       delay: DEFAULT_ANIMATION_DURATION,
-      headers: { [TOKEN_HEADER]: shareToken?.token },
     },
-    [modified],
+    [modified, url, referrer, os, browser, device, country],
   );
 
   const filteredData = useMemo(() => {

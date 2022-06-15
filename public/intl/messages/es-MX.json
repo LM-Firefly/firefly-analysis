@@ -2,187 +2,187 @@
   "label.accounts": [
     {
       "type": 0,
-      "value": "Konten"
+      "value": "Usuarios"
     }
   ],
   "label.add-account": [
     {
       "type": 0,
-      "value": "Konto hinzufügen"
+      "value": "Agregar usuario"
     }
   ],
   "label.add-website": [
     {
       "type": 0,
-      "value": "Webseite hinzufügen"
+      "value": "Agregar sitio"
     }
   ],
   "label.administrator": [
     {
       "type": 0,
-      "value": "Administrator"
+      "value": "Administrador"
     }
   ],
   "label.all": [
     {
       "type": 0,
-      "value": "Alle"
+      "value": "Todos"
     }
   ],
   "label.all-events": [
     {
       "type": 0,
-      "value": "Alle Ereignisse"
+      "value": "Todos los eventos"
     }
   ],
   "label.all-time": [
     {
       "type": 0,
-      "value": "Gesamter Zeitraum"
+      "value": "Todos los tiempos"
     }
   ],
   "label.all-websites": [
     {
       "type": 0,
-      "value": "Alle Webseiten"
+      "value": "Todos los sitios"
     }
   ],
   "label.back": [
     {
       "type": 0,
-      "value": "Zurück"
+      "value": "Atrás"
     }
   ],
   "label.cancel": [
     {
       "type": 0,
-      "value": "Abbrechen"
+      "value": "Cancelar"
     }
   ],
   "label.change-password": [
     {
       "type": 0,
-      "value": "Passwort ändern"
+      "value": "Cambiar contraseña"
     }
   ],
   "label.confirm-password": [
     {
       "type": 0,
-      "value": "Passwort wiederholen"
+      "value": "Confirmar contraseña"
     }
   ],
   "label.copy-to-clipboard": [
     {
       "type": 0,
-      "value": "In die Zwischenablage kopieren"
+      "value": "Copiar al portapapeles"
     }
   ],
   "label.current-password": [
     {
       "type": 0,
-      "value": "Derzeitiges Passwort"
+      "value": "Contraseña actual"
     }
   ],
   "label.custom-range": [
     {
       "type": 0,
-      "value": "Benutzerdefinierter Bereich"
+      "value": "Intervalo personalizado"
     }
   ],
   "label.dashboard": [
     {
       "type": 0,
-      "value": "Übersicht"
+      "value": "Panel de control"
     }
   ],
   "label.date-range": [
     {
       "type": 0,
-      "value": "Datumsbereich"
+      "value": "Fechas"
     }
   ],
   "label.default-date-range": [
     {
       "type": 0,
-      "value": "Voreingestellter Datumsbereich"
+      "value": "Intervalo por defecto"
     }
   ],
   "label.delete": [
     {
       "type": 0,
-      "value": "Löschen"
+      "value": "Eliminar"
     }
   ],
   "label.delete-account": [
     {
       "type": 0,
-      "value": "Konto löschen"
+      "value": "Eliminar usuario"
     }
   ],
   "label.delete-website": [
     {
       "type": 0,
-      "value": "Webseite löschen"
+      "value": "Eliminar sitio"
     }
   ],
   "label.dismiss": [
     {
       "type": 0,
-      "value": "Verwerfen"
+      "value": "Ignorar"
     }
   ],
   "label.domain": [
     {
       "type": 0,
-      "value": "Domain"
+      "value": "Dominio"
     }
   ],
   "label.edit": [
     {
       "type": 0,
-      "value": "Bearbeiten"
+      "value": "Editar"
     }
   ],
   "label.edit-account": [
     {
       "type": 0,
-      "value": "Konto bearbeiten"
+      "value": "Editar usuario"
     }
   ],
   "label.edit-website": [
     {
       "type": 0,
-      "value": "Webseite bearbeiten"
+      "value": "Editar sitio"
     }
   ],
   "label.enable-share-url": [
     {
       "type": 0,
-      "value": "Freigabe-URL aktivieren"
+      "value": "Habilitar compartir URL"
     }
   ],
   "label.invalid": [
     {
       "type": 0,
-      "value": "Ungültig"
+      "value": "Inválido"
     }
   ],
   "label.invalid-domain": [
     {
       "type": 0,
-      "value": "Ungültige Domain"
+      "value": "Dominio inválido"
     }
   ],
   "label.language": [
     {
       "type": 0,
-      "value": "Language"
+      "value": "Idioma"
     }
   ],
   "label.last-days": [
     {
       "type": 0,
-      "value": "Letzten "
+      "value": "Últimos "
     },
     {
       "type": 1,
@@ -190,13 +190,13 @@
     },
     {
       "type": 0,
-      "value": " Tage"
+      "value": " días"
     }
   ],
   "label.last-hours": [
     {
       "type": 0,
-      "value": "Letzten "
+      "value": "Últimas "
     },
     {
       "type": 1,
@@ -204,13 +204,13 @@
     },
     {
       "type": 0,
-      "value": " Stunden"
+      "value": " horas"
     }
   ],
   "label.logged-in-as": [
     {
       "type": 0,
-      "value": "Angemeldet als "
+      "value": "Sesión iniciada como "
     },
     {
       "type": 1,
@@ -220,181 +220,181 @@
   "label.login": [
     {
       "type": 0,
-      "value": "Anmelden"
+      "value": "Iniciar sesión"
     }
   ],
   "label.logout": [
     {
       "type": 0,
-      "value": "Abmelden"
+      "value": "Cerrar sesión"
     }
   ],
   "label.more": [
     {
       "type": 0,
-      "value": "Mehr"
+      "value": "Más"
     }
   ],
   "label.name": [
     {
       "type": 0,
-      "value": "Name"
+      "value": "Nombre"
     }
   ],
   "label.new-password": [
     {
       "type": 0,
-      "value": "Neues Passwort"
+      "value": "Nueva contraseña"
     }
   ],
   "label.owner": [
     {
       "type": 0,
-      "value": "Besitzer"
+      "value": "Propietario"
     }
   ],
   "label.password": [
     {
       "type": 0,
-      "value": "Passwort"
+      "value": "Contraseña"
     }
   ],
   "label.passwords-dont-match": [
     {
       "type": 0,
-      "value": "Passwörter stimmen nicht überein"
+      "value": "Las contraseñas no coinciden"
     }
   ],
   "label.profile": [
     {
       "type": 0,
-      "value": "Profil"
+      "value": "Perfil"
     }
   ],
   "label.realtime": [
     {
       "type": 0,
-      "value": "Echtzeit"
+      "value": "Tiempo real"
     }
   ],
   "label.realtime-logs": [
     {
       "type": 0,
-      "value": "Echtzeit-Protokoll"
+      "value": "Registros en tiempo real"
     }
   ],
   "label.refresh": [
     {
       "type": 0,
-      "value": "Aktualisieren"
+      "value": "Actualizar"
     }
   ],
   "label.required": [
     {
       "type": 0,
-      "value": "Erforderlich"
+      "value": "Obligatorio"
     }
   ],
   "label.reset": [
     {
       "type": 0,
-      "value": "Zurücksetzen"
+      "value": "Reiniciar"
     }
   ],
   "label.reset-website": [
     {
       "type": 0,
-      "value": "Statistik zurücksetzen"
+      "value": "Reiniciar estadísticas"
     }
   ],
   "label.save": [
     {
       "type": 0,
-      "value": "Speichern"
+      "value": "Guardar"
     }
   ],
   "label.settings": [
     {
       "type": 0,
-      "value": "Einstellungen"
+      "value": "Configuraciones"
     }
   ],
   "label.share-url": [
     {
       "type": 0,
-      "value": "Freigabe-URL"
+      "value": "Compartir URL"
     }
   ],
   "label.single-day": [
     {
       "type": 0,
-      "value": "Ein Tag"
+      "value": "Dia"
     }
   ],
   "label.theme": [
     {
       "type": 0,
-      "value": "Theme"
+      "value": "Tema"
     }
   ],
   "label.this-month": [
     {
       "type": 0,
-      "value": "Diesen Monat"
+      "value": "Este mes"
     }
   ],
   "label.this-week": [
     {
       "type": 0,
-      "value": "Diese Woche"
+      "value": "Esta semana"
     }
   ],
   "label.this-year": [
     {
       "type": 0,
-      "value": "Dieses Jahr"
+      "value": "Este año"
     }
   ],
   "label.timezone": [
     {
       "type": 0,
-      "value": "Zeitzone"
+      "value": "Zona horaria"
     }
   ],
   "label.today": [
     {
       "type": 0,
-      "value": "Heute"
+      "value": "Hoy"
     }
   ],
   "label.tracking-code": [
     {
       "type": 0,
-      "value": "Tracking Kennung"
+      "value": "Código de rastreo"
     }
   ],
   "label.unknown": [
     {
       "type": 0,
-      "value": "Unbekannt"
+      "value": "Desconocida"
     }
   ],
   "label.username": [
     {
       "type": 0,
-      "value": "Benutzername"
+      "value": "Nombre de usuario"
     }
   ],
   "label.view-details": [
     {
       "type": 0,
-      "value": "Details anzeigen"
+      "value": "Ver detalles"
     }
   ],
   "label.websites": [
     {
       "type": 0,
-      "value": "Webseiten"
+      "value": "Sitios"
     }
   ],
   "message.active-users": [
@@ -413,7 +413,7 @@
           "value": [
             {
               "type": 0,
-              "value": "aktiver Besucher"
+              "value": "activo"
             }
           ]
         },
@@ -421,7 +421,7 @@
           "value": [
             {
               "type": 0,
-              "value": "aktive Besucher"
+              "value": "activos"
             }
           ]
         }
@@ -434,7 +434,7 @@
   "message.confirm-delete": [
     {
       "type": 0,
-      "value": "Sind Sie sich sicher, "
+      "value": "¿Estás seguro(a) de querer eliminar "
     },
     {
       "type": 1,
@@ -442,13 +442,13 @@
     },
     {
       "type": 0,
-      "value": " zu löschen?"
+      "value": "?"
     }
   ],
   "message.confirm-reset": [
     {
       "type": 0,
-      "value": "Sind Sie sicher, dass Sie die Statistiken von "
+      "value": "¿Seguro que deseas restablecer las estadísticas de "
     },
     {
       "type": 1,
@@ -456,55 +456,55 @@
     },
     {
       "type": 0,
-      "value": " zurücksetzen wollen?"
+      "value": "?"
     }
   ],
   "message.copied": [
     {
       "type": 0,
-      "value": "In Zwischenablage kopiert!"
+      "value": "¡Copiado!"
     }
   ],
   "message.delete-warning": [
     {
       "type": 0,
-      "value": "Alle zugehörigen Daten werden ebenfalls gelöscht."
+      "value": "Toda la información relacionada será eliminada."
     }
   ],
   "message.failure": [
     {
       "type": 0,
-      "value": "Es ist ein Fehler aufgetreten."
+      "value": "Algo falló."
     }
   ],
   "message.get-share-url": [
     {
       "type": 0,
-      "value": "Freigabe-URL abrufen"
+      "value": "Obtener URL para compartir"
     }
   ],
   "message.get-tracking-code": [
     {
       "type": 0,
-      "value": "Erstelle Tracking Kennung"
+      "value": "Obtener código de rastreo"
     }
   ],
   "message.go-to-settings": [
     {
       "type": 0,
-      "value": "Zu den Einstellungen"
+      "value": "Ir a la configuración"
     }
   ],
   "message.incorrect-username-password": [
     {
       "type": 0,
-      "value": "Falsches Passwort oder Benutzername."
+      "value": "Nombre de usuario o contraseña incorrectos."
     }
   ],
   "message.log.visitor": [
     {
       "type": 0,
-      "value": "Besucher aus "
+      "value": "Visitante desde "
     },
     {
       "type": 1,
@@ -512,7 +512,7 @@
     },
     {
       "type": 0,
-      "value": " benutzt "
+      "value": " usando "
     },
     {
       "type": 1,
@@ -520,7 +520,7 @@
     },
     {
       "type": 0,
-      "value": " auf "
+      "value": " en "
     },
     {
       "type": 1,
@@ -538,7 +538,7 @@
   "message.new-version-available": [
     {
       "type": 0,
-      "value": "Eine neue Version von umami "
+      "value": "¡Una nueva versión de umami "
     },
     {
       "type": 1,
@@ -546,31 +546,31 @@
     },
     {
       "type": 0,
-      "value": " ist verfügbar!"
+      "value": " esta disponible!"
     }
   ],
   "message.no-data-available": [
     {
       "type": 0,
-      "value": "Keine Daten vorhanden."
+      "value": "Sin información disponible."
     }
   ],
   "message.no-websites-configured": [
     {
       "type": 0,
-      "value": "Es ist keine Webseite vorhanden."
+      "value": "No tienes ningún sitio configurado."
     }
   ],
   "message.page-not-found": [
     {
       "type": 0,
-      "value": "Seite nicht gefunden."
+      "value": "Página no encontrada"
     }
   ],
   "message.powered-by": [
     {
       "type": 0,
-      "value": "Betrieben durch "
+      "value": "Desarrollado con "
     },
     {
       "type": 1,
@@ -580,19 +580,19 @@
   "message.reset-warning": [
     {
       "type": 0,
-      "value": "Alle Daten für diese Webseite werden gelöscht, jedoch bleibt der Tracking Code bestehen."
+      "value": "Todas las estadísticas de esta página serán eliminadas, pero el código de rastreo permanecerá intacto."
     }
   ],
   "message.save-success": [
     {
       "type": 0,
-      "value": "Erfolgreich gespeichert."
+      "value": "Guardado exitosamente."
     }
   ],
   "message.share-url": [
     {
       "type": 0,
-      "value": "Dies ist die öffentliche URL zum Teilen für "
+      "value": "Esta es la URL compartida públicamente para "
     },
     {
       "type": 1,
@@ -606,13 +606,13 @@
   "message.toggle-charts": [
     {
       "type": 0,
-      "value": "Schaubilder umschalten"
+      "value": "Alternar gráficas"
     }
   ],
   "message.track-stats": [
     {
       "type": 0,
-      "value": "Um die Statistiken für "
+      "value": "Para registrar estadísticas para "
     },
     {
       "type": 1,
@@ -620,7 +620,7 @@
     },
     {
       "type": 0,
-      "value": " zu übermitteln, platzieren Sie bitte den folgenden Quelltext im "
+      "value": ", copia el siguiente código dentro de la etiqueta "
     },
     {
       "type": 1,
@@ -628,13 +628,13 @@
     },
     {
       "type": 0,
-      "value": " ihrer Webseite."
+      "value": " de tu sitio."
     }
   ],
   "message.type-delete": [
     {
       "type": 0,
-      "value": "Geben Sie "
+      "value": "Escribe "
     },
     {
       "type": 1,
@@ -642,13 +642,13 @@
     },
     {
       "type": 0,
-      "value": " in das Feld unten ein um zu bestätigen."
+      "value": " abajo para confirmar."
     }
   ],
   "message.type-reset": [
     {
       "type": 0,
-      "value": "Geben Sie "
+      "value": "Escribe "
     },
     {
       "type": 1,
@@ -656,139 +656,139 @@
     },
     {
       "type": 0,
-      "value": " in das Feld unten ein um zu bestätigen."
+      "value": " en la caja inferior para confirmar."
     }
   ],
   "metrics.actions": [
     {
       "type": 0,
-      "value": "Aktionen"
+      "value": "Acciones"
     }
   ],
   "metrics.average-visit-time": [
     {
       "type": 0,
-      "value": "Durchschn. Besuchszeit"
+      "value": "Tiempo promedio de visita"
     }
   ],
   "metrics.bounce-rate": [
     {
       "type": 0,
-      "value": "Absprungrate"
+      "value": "Porcentaje de rebote"
     }
   ],
   "metrics.browsers": [
     {
       "type": 0,
-      "value": "Browser"
+      "value": "Navegadores"
     }
   ],
   "metrics.countries": [
     {
       "type": 0,
-      "value": "Länder"
+      "value": "Países"
     }
   ],
   "metrics.device.desktop": [
     {
       "type": 0,
-      "value": "Desktop"
+      "value": "Escritorio"
     }
   ],
   "metrics.device.laptop": [
     {
       "type": 0,
-      "value": "Laptop"
+      "value": "Portátil"
     }
   ],
   "metrics.device.mobile": [
     {
       "type": 0,
-      "value": "Mobiltelefon"
+      "value": "Móvil"
     }
   ],
   "metrics.device.tablet": [
     {
       "type": 0,
-      "value": "Tablet"
+      "value": "Tableta"
     }
   ],
   "metrics.devices": [
     {
       "type": 0,
-      "value": "Geräte"
+      "value": "Dispositivos"
     }
   ],
   "metrics.events": [
     {
       "type": 0,
-      "value": "Ereignisse"
+      "value": "Eventos"
     }
   ],
   "metrics.filter.combined": [
     {
       "type": 0,
-      "value": "Kombiniert"
+      "value": "Combinado"
     }
   ],
   "metrics.filter.domain-only": [
     {
       "type": 0,
-      "value": "Nur diese Domain"
+      "value": "Únicamente dominio"
     }
   ],
   "metrics.filter.raw": [
     {
       "type": 0,
-      "value": "Rohdaten"
+      "value": "Personalizado"
     }
   ],
   "metrics.languages": [
     {
       "type": 0,
-      "value": "Sprachen"
+      "value": "Idiomas"
     }
   ],
   "metrics.operating-systems": [
     {
       "type": 0,
-      "value": "Betriebssysteme"
+      "value": "Sistemas operativos"
     }
   ],
   "metrics.page-views": [
     {
       "type": 0,
-      "value": "Seitenaufrufe"
+      "value": "Vistas"
     }
   ],
   "metrics.pages": [
     {
       "type": 0,
-      "value": "Seiten"
+      "value": "Páginas"
     }
   ],
   "metrics.referrers": [
     {
       "type": 0,
-      "value": "Referrer"
+      "value": "Referentes"
     }
   ],
   "metrics.unique-visitors": [
     {
       "type": 0,
-      "value": "Eindeutige Besucher"
+      "value": "Visitantes únicos"
     }
   ],
   "metrics.views": [
     {
       "type": 0,
-      "value": "Aufrufe"
+      "value": "Vistas"
     }
   ],
   "metrics.visitors": [
     {
       "type": 0,
-      "value": "Besucher"
+      "value": "Visitantes"
     }
   ]
 }
